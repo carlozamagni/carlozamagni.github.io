@@ -7,7 +7,8 @@ body {
 	background-position: top;
 	height: auto;
 	display: block;
-	width: 100%;
+	/*width: 100%;*/
+	max-width: 100%; /* equivalent to img-responsive class in bootstrap */
 	text-align: center;
 }
 
